@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenuTable_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: a7cb481156ea8d4819b6123f4ad6f26c, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2215553393032167460
+  m_TableData:
+  - m_Id: 22696185856
+    m_Localized: "Rozpocznij Gr\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 683693330432
+    m_Localized: Mity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 841705345024
+    m_Localized: Opcje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863800938496
+    m_Localized: "Wyjd\u017A z Gry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915198365696
+    m_Localized: Wycisz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25056407998464
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25123193901056
+    m_Localized: "Ogr\xF3d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25137731358720
+    m_Localized: "Ogr\xF3d 2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25139866259456
+    m_Localized: Jaskinia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25141283934208
+    m_Localized: Jaskinia 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27171100577792
+    m_Localized: "Powr\xF3t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28745269006336
+    m_Localized: "G\u0142o\u015Bno\u015B\u0107 muzyki: {0}%"
+    m_Metadata:
+      m_Items:
+      - rid: 2215553393032167460
+  - m_Id: 28747332603904
+    m_Localized: "G\u0142o\u015Bno\u015B\u0107 d\u017Awi\u0119k\xF3w: {0}%"
+    m_Metadata:
+      m_Items:
+      - rid: 2215553393032167460
+  - m_Id: 490063600046080
+    m_Localized: "Menu G\u0142\xF3wne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5787298770042880
+    m_Localized: Muzyka jest wyciszona!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5787515707834368
+    m_Localized: "D\u017Awi\u0119ki s\u0105 wyciszone!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867588966273024
+    m_Localized: "Rzemios\u0142o Dedala"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867599863074816
+    m_Localized: Labirynt na Krecie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867601347858432
+    m_Localized: Cywilizacja Krety
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867727294418944
+    m_Localized: Ukaranie Dedala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867728338800640
+    m_Localized: "Rola Kr\xF3la Minosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867729496428544
+    m_Localized: Los Minotaura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867895641198592
+    m_Localized: Lot Ikara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867896899489792
+    m_Localized: "Symbolizm Skrzyde\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867898015174656
+    m_Localized: Tragiczny Upadek Ikara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6868186650398720
+    m_Localized: Tezeusz i Minotaur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6868188051296256
+    m_Localized: "Ni\u0107 Ariadny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6868189313781760
+    m_Localized: Ucieczka z Krety
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7777237483671552
+    m_Localized: "Zresetuj Post\u0119p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7894681692520448
+    m_Localized: "Zbierz 3 klucze aby wej\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7965169479434240
+    m_Localized: "Nast\u0119pny Poziom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7965306666729472
+    m_Localized: "Poziom uko\u0144czony"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2215553393032167460
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00508c42251a000000508cc7241a0000
