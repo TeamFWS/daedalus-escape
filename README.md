@@ -1,9 +1,9 @@
 # 🏛️ Daedalus Escape
-2D top-down puzzle game for PC, where players navigate the mythological labyrinth of Daedalus. Solve puzzles, overcome darkness, and uncover Greek mythology while trying to escape.
+A 2D top-down puzzle game for PC where players navigate the mythological labyrinth of Daedalus. Solve puzzles, overcome darkness, and uncover the stories of Greek mythology while fighting to escape.
 
 ## Overview
 **Daedalus Escape** is a **PC puzzle game developed in Unity**.  
-Players control Daedalus, trapped inside his own labyrinth by King Minos, and must navigate through a series of increasingly complex levels to escape. The game combines **problem-solving mechanics** with **educational storytelling**, introducing players to Greek myths.
+Players take on the role of Daedalus, trapped inside his own labyrinth by King Minos. To escape, they must navigate a series of increasingly complex levels that challenge both logic and creativity. The game blends problem-solving mechanics with educational storytelling, introducing players to key figures and tales from Greek mythology.
 
 ## Key Features
 - **Multiple levels**:
