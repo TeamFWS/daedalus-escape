@@ -1,4 +1,0 @@
-repository "UcieczkaDedala@PG_Team5@cloud"
-  path "/"
-    br "/main"
-    co "/main"
